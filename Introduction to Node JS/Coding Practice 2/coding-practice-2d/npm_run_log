@@ -1,0 +1,6 @@
+  console.log
+    { ratio: 2, factorial: 6 }
+
+      at Object.<anonymous> (../utilities/ratioFactorial/index.js:10:9)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**
